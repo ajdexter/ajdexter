@@ -8,7 +8,8 @@ Cybersecurity veteran with 20+ years in the industry, documentary photographer, 
 
 - **[ajdexter.com](https://ajdexter.com)** — Personal and photography portfolio, built with Next.js
 - **Void** — Job tracking and Machine Learning CLI tool built with Go and [Charm](https://charm.sh)
-- Various Go-based CLI tools and a SvelteKit site in the workshop
+- **[adventure.ajdexter.com](https://adventure.ajdexter.com)** — A past life in adventure photography, preserved in SvelteKit
+- A handful of Go-based CLI tools that solve problems I kept having
 
 ## Tech I Reach For
 
